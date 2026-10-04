@@ -1,5 +1,7 @@
 # ThreeLineage
 
+**[Open the interactive Missing Receipt demo](https://sigilith.github.io/threelineage-showcase/)** — a browser simulation of the scenarios below; no live core execution.
+
 ### The action happened. The receipt didn't. What happens next?
 
 **Execution governance and failure-handling evidence, developed by Ky Nash.**
@@ -78,6 +80,6 @@ Include the workflow you want to control, the consequence of a duplicate or unau
 
 ## Visibility and ownership
 
-This repository contains presentation material only. It grants no licence to the core software and offers no source download. Public descriptions can be read and discussed; the underlying implementation is not included here. A hosted interactive demonstration is not yet available.
+This repository contains presentation material only. It grants no licence to the core software and offers no core source download. Public descriptions can be read and discussed; the underlying implementation is not included here. The public browser simulator is included; the private core implementation is not.
 
-Framework authorship: **Ky Nash / ThreeLineage**. Showcase writing and demonstration preparation include AI assistance. No endorsement by Google, AISI or another organisation is claimed.
+Framework authorship: **Ky Nash / ThreeLineage**. No endorsement by Google, AISI or another organisation is claimed.
